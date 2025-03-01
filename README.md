@@ -21,3 +21,5 @@ Note : Hanya memperbaiki triggercallback
 
 # preview
 ![Screenshot 2025-03-02 074826](https://github.com/user-attachments/assets/12a750c4-47b3-4a27-8329-2a9cfe52bca5)
+![image](https://github.com/user-attachments/assets/d0280831-badb-47f9-93c8-cdc538c34baa)
+
